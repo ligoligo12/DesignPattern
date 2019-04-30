@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b5c9b570-930e-49af-9b92-253e3ed50794" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="898969874">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="20" />
+    <option name="y" value="24" />
+    <option name="width" value="1260" />
+    <option name="height" value="675" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Design Pattern" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Design Pattern" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b5c9b570-930e-49af-9b92-253e3ed50794" name="Default Changelist" comment="" />
+      <created>1551240335507</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1551240335507</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="20" y="24" width="1260" height="675" extended-state="0" />
+    <layout>
+      <window_info content_ui="combo" id="Project" sideWeight="0.4987013" visible="true" weight="0.3292978" />
+      <window_info id="Structure" sideWeight="0.5012987" side_tool="true" weight="0.3292978" />
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info id="Captures" order="0" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" x="41" y="499" width="1239" height="192" id="TODO" sideWeight="0.49959645" type="FLOATING" weight="0.32933104" />
+      <window_info anchor="bottom" id="Find" />
+      <window_info active="true" anchor="bottom" id="Terminal" sideWeight="0.49959645" visible="true" weight="0.33962265" />
+      <window_info anchor="bottom" id="Event Log" sideWeight="0.5004035" side_tool="true" weight="0.32933104" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Palette&#9;" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+</project>
